@@ -126,11 +126,15 @@ void loop() {
 Cuando haya funcionado, verás los valores dentro del LCD 16x2 como se muestra en la siguente imagen.
 
 
-![]()
+![](https://github.com/jaquelineriverh/PRACTICA-2-ESP32-CON-DHT11-Y-Lcd/blob/main/evidencia%202%20imagen.png)
 
 ### Evidencias
 
 
+
+
+
+https://github.com/user-attachments/assets/b115694c-ed32-4eb4-8698-486ec57b66ce
 
 
 
