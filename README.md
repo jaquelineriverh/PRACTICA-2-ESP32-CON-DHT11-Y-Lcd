@@ -111,7 +111,7 @@ void loop() {
 5.Hacer la conexion de LCD con la ESP32 como se muestra en la siguente imagen.
 
 
-![]()
+![](https://github.com/jaquelineriverh/PRACTICA-2-ESP32-CON-DHT11-Y-Lcd/blob/main/conexion%20lcd.png)
 
 
 ### Instrucciónes de operación
