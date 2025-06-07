@@ -99,7 +99,7 @@ void loop() {
 
 
 
-![]()
+![](https://github.com/jaquelineriverh/PRACTICA-2-ESP32-CON-DHT11-Y-Lcd/blob/main/libreria%20liquid.png)
 
 
 
